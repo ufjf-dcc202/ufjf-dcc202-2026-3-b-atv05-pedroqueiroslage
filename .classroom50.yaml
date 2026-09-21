@@ -1,0 +1,7 @@
+schema: "classroom50/repo-config/v1"
+classroom: "ufjf-dcc202-2026-3-b"
+assignment: "atv05"
+owner:
+  username: "pedroqueiroslage"
+  id: 301024755
+  accepted_at: "2026-09-21T17:15:58Z"
